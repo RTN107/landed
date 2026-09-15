@@ -51,7 +51,8 @@ uv sync
 uv run python scripts/run_offline.py
 ```
 
-Open http://localhost:8501 and drop any PDF on the upload screen.
+Open http://localhost:8501 and drop any PDF on the upload screen. If 8501 is already taken,
+Streamlit refuses to start rather than picking another port; free it or add `--port 8600`.
 
 All three model calls and the sheet are replaced by fixtures, so the extraction is served
 from `scripts/fixtures/metro_extraction.json` whatever you upload, and nothing is written
@@ -154,7 +155,8 @@ uv run streamlit run app.py
 
 On the first run a browser opens asking you to authorise against your Google account. Approve
 it and `token.json` is written beside `credentials.json`. Later runs reuse that token and go
-straight to http://localhost:8501.
+straight to http://localhost:8501. If 8501 is already taken, Streamlit refuses to start; free
+it or run with `--server.port 8600`.
 
 ---
 
