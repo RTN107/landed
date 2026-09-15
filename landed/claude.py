@@ -1,4 +1,4 @@
-"""Calls to claude-opus-5: extraction, resubmission, analysis.
+"""Calls to Claude: extraction, resubmission, analysis.
 
 Prompts live in landed/prompts/*.md and are read at call time, so any of
 them can be swapped without touching this file.
@@ -18,7 +18,7 @@ from .schema import Extraction, Resubmission
 
 PROMPTS = Path(__file__).resolve().parent / "prompts"
 
-# Claude Opus 5's safety classifiers can decline a request outright (stop_reason
+# Claude's safety classifiers can decline a request outright (stop_reason
 # "refusal") even on ordinary business content - it happens rarely but has been
 # observed on this app's own comparison prompt. Enabling the server-side fallback
 # re-runs a declined request on Anthropic's recommended substitute model
