@@ -1,3 +1,27 @@
+<p align="center">
+  <img src="docs/screenshots/review-screen.png" alt="Landed's review screen: a toilet tissue line item blocked with an explanation that pulls per roll was not printed, next to floor cleaner, hand wash and gloves lines that cleared with their arithmetic shown" width="820" />
+</p>
+
+<p align="center">
+  <a href="#1-try-it-in-two-minutes">Try it</a> •
+  <a href="#2-what-you-need">What you need</a> •
+  <a href="#3-setting-it-up">Setup</a> •
+  <a href="#4-where-the-secrets-go">Secrets</a> •
+  <a href="#5-where-to-make-your-changes">Configuration</a> •
+  <a href="#6-using-it">Using it</a> •
+  <a href="#7-changing-the-calculation">The calculation</a> •
+  <a href="#8-how-it-is-put-together">Structure</a>
+</p>
+
+<p align="center">
+  <img alt="Python 3.12+" src="https://img.shields.io/badge/Python-3.12+-3776AB?logo=python&logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+  <img alt="Anthropic Claude" src="https://img.shields.io/badge/Anthropic-Claude-D97757" />
+  <img alt="Google Sheets API" src="https://img.shields.io/badge/Google%20Sheets-API-34A853?logo=googlesheets&logoColor=white" />
+  <img alt="uv" src="https://img.shields.io/badge/Package%20manager-uv-DE5FE9" />
+  <img alt="Runs locally" src="https://img.shields.io/badge/Runs-locally-1B1A18" />
+</p>
+
 # Landed
 
 Reads a vendor quotation PDF, converts every line to a landed cost per unit you actually
@@ -9,25 +33,12 @@ Vendors price the same products in different pack sizes, with different discount
 terms. The printed rate is not what the thing costs. A case of 50 at 725 less 5% plus 850
 freight is 14.20 a unit, and that is the only figure worth comparing.
 
-The model reads documents and writes prose. Every landed cost is calculated in Python. The model is never asked to do arithmetic.
+The model reads documents and writes prose. Every landed cost is calculated in Python with
+`decimal.Decimal`. The model is never asked to do arithmetic.
 
 **This repository ships configured for a fictional hotel buying cleaning consumables.** That
-is a placeholder. Nothing about hotels is written into the code or the prompts.
-
----
-
-## Contents
-
-1. [Try it in two minutes](#1-try-it-in-two-minutes)
-2. [What you need](#2-what-you-need)
-3. [Setting it up](#3-setting-it-up)
-4. [Where the secrets go](#4-where-the-secrets-go)
-5. [Where to make your changes](#5-where-to-make-your-changes)
-6. [Using it](#6-using-it)
-7. [Changing the calculation](#7-changing-the-calculation)
-8. [How it is put together](#8-how-it-is-put-together)
-9. [Checking each piece](#9-checking-each-piece)
-10. [Limits](#10-limits)
+is a placeholder. Nothing about hotels is written into the code or the prompts. See
+[Where to make your changes](#5-where-to-make-your-changes).
 
 ---
 
@@ -283,6 +294,10 @@ are not written and are listed on the confirmation screen instead.
 **Compare.** Choose a month and press Run comparison. The app re-reads the sheet fresh, splits
 it into that month's quotes and everything before, builds the table and trend strip in Python,
 and asks the model for the written verdict. The table is never produced by the model.
+
+<p align="center">
+  <img src="docs/screenshots/compare-screen.png" alt="Landed's Compare screen: a headline savings figure, a per-vendor comparison table with the cheapest quote on each item marked, and the written recommendation below it" width="820" />
+</p>
 
 ---
 
