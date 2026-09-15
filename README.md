@@ -12,8 +12,7 @@ freight is 14.20 a unit, and that is the only figure worth comparing.
 The model reads documents and writes prose. Every landed cost is calculated in Python. The model is never asked to do arithmetic.
 
 **This repository ships configured for a fictional hotel buying cleaning consumables.** That
-is a placeholder. Nothing about hotels is written into the code or the prompts. See
-[Where to make your changes](#where-to-make-your-changes).
+is a placeholder. Nothing about hotels is written into the code or the prompts.
 
 ---
 
