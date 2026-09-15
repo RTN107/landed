@@ -1,0 +1,382 @@
+[
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "08/04/2026",
+  "Item": "Toilet tissue roll (2 ply, 300 pulls)",
+  "Base unit": "roll",
+  "Landed cost per base unit excl. GST (INR)": "15.40",
+  "Order quantity": "2,000",
+  "Note": "Order placed with this vendor. Delivered complete and on time. No issues reported.",
+  "Note date": "15/04/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "08/04/2026",
+  "Item": "Floor cleaner (ready to use)",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "54.00",
+  "Order quantity": "200",
+  "Note": "Order placed with this vendor. Delivered complete and on time. No issues reported.",
+  "Note date": "15/04/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "08/04/2026",
+  "Item": "Hand wash liquid",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "72.00",
+  "Order quantity": "100",
+  "Note": "Order placed with this vendor. Delivered complete and on time. No issues reported.",
+  "Note date": "15/04/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "08/04/2026",
+  "Item": "Nitrile gloves (powder free)",
+  "Base unit": "piece",
+  "Landed cost per base unit excl. GST (INR)": "1.88",
+  "Order quantity": "5,000",
+  "Note": "Order placed with this vendor. Delivered complete and on time. No issues reported.",
+  "Note date": "15/04/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "06/05/2026",
+  "Item": "Toilet tissue roll (2 ply, 300 pulls)",
+  "Base unit": "roll",
+  "Landed cost per base unit excl. GST (INR)": "15.70",
+  "Order quantity": "2,000",
+  "Note": "Order placed with this vendor. Rate revision of 2% applied without prior notice.",
+  "Note date": "14/05/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "06/05/2026",
+  "Item": "Floor cleaner (ready to use)",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "55.00",
+  "Order quantity": "200",
+  "Note": "Order placed with this vendor. Rate revision of 2% applied without prior notice.",
+  "Note date": "14/05/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "06/05/2026",
+  "Item": "Hand wash liquid",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "73.50",
+  "Order quantity": "100",
+  "Note": "Order placed with this vendor. Rate revision of 2% applied without prior notice.",
+  "Note date": "14/05/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "06/05/2026",
+  "Item": "Nitrile gloves (powder free)",
+  "Base unit": "piece",
+  "Landed cost per base unit excl. GST (INR)": "1.90",
+  "Order quantity": "5,000",
+  "Note": "Order placed with this vendor. Rate revision of 2% applied without prior notice.",
+  "Note date": "14/05/2026"
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "06/05/2026",
+  "Item": "Toilet tissue roll (2 ply, 300 pulls)",
+  "Base unit": "roll",
+  "Landed cost per base unit excl. GST (INR)": "14.90",
+  "Order quantity": "2,000",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "06/05/2026",
+  "Item": "Floor cleaner (ready to use)",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "52.50",
+  "Order quantity": "200",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "06/05/2026",
+  "Item": "Hand wash liquid",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "69.50",
+  "Order quantity": "100",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "06/05/2026",
+  "Item": "Nitrile gloves (powder free)",
+  "Base unit": "piece",
+  "Landed cost per base unit excl. GST (INR)": "2.08",
+  "Order quantity": "5,000",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "10/06/2026",
+  "Item": "Toilet tissue roll (2 ply, 300 pulls)",
+  "Base unit": "roll",
+  "Landed cost per base unit excl. GST (INR)": "16.00",
+  "Order quantity": "2,000",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "10/06/2026",
+  "Item": "Hand wash liquid",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "75.00",
+  "Order quantity": "100",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "10/06/2026",
+  "Item": "Toilet tissue roll (2 ply, 300 pulls)",
+  "Base unit": "roll",
+  "Landed cost per base unit excl. GST (INR)": "14.60",
+  "Order quantity": "2,000",
+  "Note": "Order placed with this vendor. 6% of tissue rolls had damaged cores and were unusable. Replacement took 4 days.",
+  "Note date": "18/06/2026"
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "10/06/2026",
+  "Item": "Hand wash liquid",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "68.50",
+  "Order quantity": "100",
+  "Note": "Order placed with this vendor. Delivered as expected.",
+  "Note date": "18/06/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "07/07/2026",
+  "Item": "Toilet tissue roll (2 ply, 300 pulls)",
+  "Base unit": "roll",
+  "Landed cost per base unit excl. GST (INR)": "16.50",
+  "Order quantity": "2,000",
+  "Note": "Order placed with this vendor. Rate revision applied, citing input costs.",
+  "Note date": "15/07/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "07/07/2026",
+  "Item": "Floor cleaner (ready to use)",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "57.50",
+  "Order quantity": "200",
+  "Note": "Order placed with this vendor. Rate revision applied, citing input costs.",
+  "Note date": "15/07/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "07/07/2026",
+  "Item": "Hand wash liquid",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "78.00",
+  "Order quantity": "100",
+  "Note": "Order placed with this vendor. Rate revision applied, citing input costs.",
+  "Note date": "15/07/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "07/07/2026",
+  "Item": "Nitrile gloves (powder free)",
+  "Base unit": "piece",
+  "Landed cost per base unit excl. GST (INR)": "1.96",
+  "Order quantity": "5,000",
+  "Note": "Order placed with this vendor. Rate revision applied, citing input costs.",
+  "Note date": "15/07/2026"
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "07/07/2026",
+  "Item": "Toilet tissue roll (2 ply, 300 pulls)",
+  "Base unit": "roll",
+  "Landed cost per base unit excl. GST (INR)": "15.30",
+  "Order quantity": "2,000",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "07/07/2026",
+  "Item": "Floor cleaner (ready to use)",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "54.00",
+  "Order quantity": "200",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "07/07/2026",
+  "Item": "Hand wash liquid",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "72.00",
+  "Order quantity": "100",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "07/07/2026",
+  "Item": "Nitrile gloves (powder free)",
+  "Base unit": "piece",
+  "Landed cost per base unit excl. GST (INR)": "2.15",
+  "Order quantity": "5,000",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "05/08/2026",
+  "Item": "Toilet tissue roll (2 ply, 300 pulls)",
+  "Base unit": "roll",
+  "Landed cost per base unit excl. GST (INR)": "16.90",
+  "Order quantity": "2,000",
+  "Note": "Order placed with this vendor. Rates have risen at every quote since April. No quality issues.",
+  "Note date": "13/08/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "05/08/2026",
+  "Item": "Floor cleaner (ready to use)",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "59.00",
+  "Order quantity": "200",
+  "Note": "Order placed with this vendor. Rates have risen at every quote since April. No quality issues.",
+  "Note date": "13/08/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "05/08/2026",
+  "Item": "Nitrile gloves (powder free)",
+  "Base unit": "piece",
+  "Landed cost per base unit excl. GST (INR)": "2.02",
+  "Order quantity": "5,000",
+  "Note": "Order placed with this vendor. Rates have risen at every quote since April. No quality issues.",
+  "Note date": "13/08/2026"
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "05/08/2026",
+  "Item": "Toilet tissue roll (2 ply, 300 pulls)",
+  "Base unit": "roll",
+  "Landed cost per base unit excl. GST (INR)": "15.80",
+  "Order quantity": "2,000",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "05/08/2026",
+  "Item": "Floor cleaner (ready to use)",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "56.00",
+  "Order quantity": "200",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "05/08/2026",
+  "Item": "Nitrile gloves (powder free)",
+  "Base unit": "piece",
+  "Landed cost per base unit excl. GST (INR)": "2.22",
+  "Order quantity": "5,000",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "09/09/2026",
+  "Item": "Toilet tissue roll (2 ply, 300 pulls)",
+  "Base unit": "roll",
+  "Landed cost per base unit excl. GST (INR)": "16.90",
+  "Order quantity": "2,000",
+  "Note": "Vendor confirms part orders accepted at quoted rates.",
+  "Note date": "07/09/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "09/09/2026",
+  "Item": "Floor cleaner (ready to use)",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "59.00",
+  "Order quantity": "200",
+  "Note": "Vendor confirms part orders accepted at quoted rates.",
+  "Note date": "07/09/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "09/09/2026",
+  "Item": "Hand wash liquid",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "78.00",
+  "Order quantity": "100",
+  "Note": "Vendor confirms part orders accepted at quoted rates.",
+  "Note date": "07/09/2026"
+ },
+ {
+  "Vendor name": "Ace Hospitality Supplies",
+  "Quote date": "09/09/2026",
+  "Item": "Nitrile gloves (powder free)",
+  "Base unit": "piece",
+  "Landed cost per base unit excl. GST (INR)": "2.02",
+  "Order quantity": "5,000",
+  "Note": "Vendor confirms part orders accepted at quoted rates.",
+  "Note date": "07/09/2026"
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "09/09/2026",
+  "Item": "Toilet tissue roll (2 ply, 300 pulls)",
+  "Base unit": "roll",
+  "Landed cost per base unit excl. GST (INR)": "15.90",
+  "Order quantity": "2,000",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "09/09/2026",
+  "Item": "Floor cleaner (ready to use)",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "56.50",
+  "Order quantity": "200",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "09/09/2026",
+  "Item": "Hand wash liquid",
+  "Base unit": "litre",
+  "Landed cost per base unit excl. GST (INR)": "73.00",
+  "Order quantity": "100",
+  "Note": "",
+  "Note date": ""
+ },
+ {
+  "Vendor name": "Vector Cleaning Solutions",
+  "Quote date": "09/09/2026",
+  "Item": "Nitrile gloves (powder free)",
+  "Base unit": "piece",
+  "Landed cost per base unit excl. GST (INR)": "2.26",
+  "Order quantity": "5,000",
+  "Note": "",
+  "Note date": ""
+ }
+]

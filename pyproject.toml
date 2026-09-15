@@ -1,0 +1,17 @@
+[project]
+name = "landed"
+version = "0.1.0"
+description = "Landed cost per base unit from vendor quotation PDFs, with review, Google Sheets write-back and a monthly vendor comparison."
+requires-python = ">=3.12"
+dependencies = [
+    "streamlit>=1.45",
+    "anthropic>=1.0",
+    "google-api-python-client>=2.150",
+    "google-auth-oauthlib>=1.2",
+    "google-auth-httplib2>=0.2",
+    "python-dotenv>=1.0",
+    "pydantic>=2.9",
+]
+
+[tool.uv]
+package = false

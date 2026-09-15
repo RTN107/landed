@@ -1,0 +1,16 @@
+# Secrets and live tokens - never commit these
+.env
+credentials.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Tooling
+.streamlit/secrets.toml
+.pytest_cache/
+.ruff_cache/
+.playwright/

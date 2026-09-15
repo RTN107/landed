@@ -1,0 +1,74 @@
+[server]
+enableStaticServing = true
+runOnSave = false
+
+[browser]
+gatherUsageStats = false
+
+[logger]
+# Keeps Streamlit's own welcome and suggestion messages off the screen, so nothing
+# appears over the app during a demo.
+hideWelcomeMessage = true
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = "full"
+
+[theme]
+base = "light"
+backgroundColor = "#F3F1EC"
+secondaryBackgroundColor = "#EAE7E0"
+textColor = "#1B1A18"
+primaryColor = "#1B1A18"
+borderColor = "#D6D2C9"
+linkColor = "#1B1A18"
+baseRadius = "4px"
+buttonRadius = "4px"
+showWidgetBorder = true
+font = "Schibsted Grotesk, sans-serif"
+headingFont = "Schibsted Grotesk, sans-serif"
+codeFont = "Fragment Mono, monospace"
+baseFontSize = 15
+
+[[theme.fontFaces]]
+family = "Bodoni Moda"
+url = "app/static/fonts/BodoniModa.woff2"
+weight = "400 900"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "Bodoni Moda"
+url = "app/static/fonts/BodoniModa-Italic.woff2"
+weight = "400 900"
+style = "italic"
+
+[[theme.fontFaces]]
+family = "Schibsted Grotesk"
+url = "app/static/fonts/SchibstedGrotesk.woff2"
+weight = "400 900"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "Schibsted Grotesk"
+url = "app/static/fonts/SchibstedGrotesk-Italic.woff2"
+weight = "400 900"
+style = "italic"
+
+[[theme.fontFaces]]
+family = "Fragment Mono"
+url = "app/static/fonts/FragmentMono.woff2"
+weight = "400"
+style = "normal"
+
+[[theme.fontFaces]]
+family = "Fragment Mono"
+url = "app/static/fonts/FragmentMono-Italic.woff2"
+weight = "400"
+style = "italic"
+
+[theme.sidebar]
+backgroundColor = "#1B1A18"
+secondaryBackgroundColor = "#262421"
+textColor = "#D8D3C8"
+borderColor = "#1B1A18"
+primaryColor = "#D8D3C8"
