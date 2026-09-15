@@ -33,12 +33,10 @@ Vendors price the same products in different pack sizes, with different discount
 terms. The printed rate is not what the thing costs. A case of 50 at 725 less 5% plus 850
 freight is 14.20 a unit, and that is the only figure worth comparing.
 
-The model reads documents and writes prose. Every landed cost is calculated in Python with
-`decimal.Decimal`. The model is never asked to do arithmetic.
+The model reads documents and writes prose. Every landed cost is calculated in Python. The model is never asked to do arithmetic.
 
 **This repository ships configured for a fictional hotel buying cleaning consumables.** That
-is a placeholder. Nothing about hotels is written into the code or the prompts. See
-[Where to make your changes](#5-where-to-make-your-changes).
+is a placeholder. Nothing about hotels is written into the code or the prompts.
 
 ---
 
